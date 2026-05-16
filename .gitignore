@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Chặn các file checkpoint nặng (đã được tự động lưu lên Hugging Face)
+*.pth
+*.index
+*.json
